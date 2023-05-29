@@ -1,4 +1,4 @@
 weight: 1
-title: "Multipurpose responsive theme"
-description: "<p>日本語いける？</p>"
+title: "画像に言葉を重ねる"
+description: "<p>data/carouselにyamlを作ると反映される。日本語もおk</p>"
 image: "img/carousel/template-homepage.png"
