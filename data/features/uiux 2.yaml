@@ -2,4 +2,4 @@ weight: 7
 name: "7番目の戦士"
 icon: "fas fa-user"
 url: ""
-description: "項目を増やしたいならファイルを増やす"
+description: "私はdata/featuresにあるYAMLファイルだ。項目を増やしたいならファイルを増やせ。"
