@@ -30,19 +30,19 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "ここがホームメニューの項目"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 2: Application"
+    name       = "項目を増やしたいならその分記述するだけ"
     url        = "/"
     weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 3: Startup"
+    name       = "ウェイトで順番を変更できる"
     url        = "/"
     weight     = 3
     parent     = "menu.home"
